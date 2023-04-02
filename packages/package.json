@@ -1,0 +1,24 @@
+{
+  "name": "amazon",
+  "version": "1.0.0",
+  "description": "Amazon delivery service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oluwatomi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oluwatomi1812/NPM-Assignment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Oluwatomi1812/NPM-Assignment/issues"
+  },
+  "homepage": "https://github.com/Oluwatomi1812/NPM-Assignment#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^17.9.1",
+    "mongoose": "^7.0.3"
+  }
+}
