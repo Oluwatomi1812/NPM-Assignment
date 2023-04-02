@@ -1,6 +1,7 @@
 1) Event Loop is responsible for executing code and handling tasks. It is what makes javaScript asynchronous.
 
 2)THE PHASES OF THE EVENT LOOP;
+
     Timers: This phase executes callbacks using timers. The Callback are executed after a period of time. For example, setTimeout, SetInterval and setImmediate.
 
     Pending CallBacks: This phase handles I/O callbacks. For examples, writeFile() and readFile().
